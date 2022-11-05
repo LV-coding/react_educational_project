@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.post {
+    margin-top: 10px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    padding: 5px;
+}
+
+.App {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
